@@ -1,0 +1,11 @@
+RigSmith PCs: Custom PC Building Studio, Hamra, Beirut
+
+RigSmith PCs builds custom desktop computers for gamers, students, content creators and professionals in Lebanon. Our mission is simple: build every customer the PC they actually need, with no overspending, no mystery parts, and no surprises. We were founded in 2023 by Karim Haddad (founder and lead builder) and Lina Saab (co-founder, operations and customer experience), and our senior technician Omar Khoury handles thermals, testing and cable management.
+
+What we offer: four custom build tiers. Starter (1080p esports gaming) starts at $650, Pro Gamer (1440p gaming and streaming) starts at $1,200, Creator Workstation (video editing, 3D and local AI) starts at $1,800, and Beast Mode (4K and high-end gaming) starts at $2,800. Tier prices include parts, assembly labor and testing. We also assemble customer-supplied parts for $40, install upgrades (GPU, RAM, SSD) for $15 per part plus the part price, do deep cleaning and thermal repaste for $25, and run diagnostics for $10 (waived if we do the repair). We help customers size a UPS or inverter setup for Lebanon's power cuts; the consultation is free and UPS units start at $90.
+
+What makes us different: every quote is transparent and part-by-part, with links and prices for each component. Every PC goes through a 48-hour stress test, and the customer receives a test report with temperatures and benchmark results. Our builds are "power-cut ready": we check UPS and inverter compatibility and include surge protection advice. Customers get a 1-year labor warranty, we handle manufacturer warranty claims for parts on their behalf, and the first cleaning in the first year is free.
+
+Practical details: builds take 3 to 5 business days after parts arrive; a 48-hour rush option costs $30 extra. A 30% deposit is required to order parts. We accept cash (USD), Whish Money and card payments. Delivery is free inside Beirut and costs $10 to $20 elsewhere in Lebanon. Our studio is in Hamra, Beirut, open Monday to Saturday from 11:00 to 20:00 and closed on Sundays. We do not repair laptops or Macs, we do not build crypto-mining rigs, and we do not currently offer installment plans.
+
+Contact: hello@rigsmith.lb, Instagram @rigsmith.pcs.
